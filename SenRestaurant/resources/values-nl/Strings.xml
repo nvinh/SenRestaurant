@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Sen Restaurant</string>
+  <string name="orderButtonText">Order Vietnamese Pho!</string>
+  <string name="cartButtonText">View your cart</string>
+  <string name="takePictureButtonText">Extract text from a photo</string>
+  <string name="mapButtonText">Sen restaurant location</string>
+  <string name="aboutButtonText">About Sen Restaurant</string>
+  <string name="analyticButtonText">Lets see what you type</string>
+</resources>
